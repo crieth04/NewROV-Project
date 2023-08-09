@@ -1,6 +1,6 @@
 # ROV (Remotely Operated Vehicle) with Single Thruster, Servo, Rudder, DC Motor, Ballast Tank, and Raspberry Pi
 
-![ROV](rov_pic.jpg) <!-- Replace with an actual image of your ROV -->
+![ROV](images/rov_pic.jpg) <!-- Replace with an actual image of your ROV -->
 
 This project focuses on building a Remotely Operated Vehicle (ROV) using various components like a single thruster, a servo, a rudder, a DC motor, a ballast tank, and a Raspberry Pi. The ROV can be controlled remotely using a Logitech joystick and provides functionalities for forward and backward movement, servo control, motor arming/disarming, and more.
 
